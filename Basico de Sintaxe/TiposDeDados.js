@@ -1,4 +1,5 @@
 // Tipos de dados JavaScript
+
 // Variáveis ​​JavaScript podem conter números como 100 e valores de texto como "John Doe".
 
 // Na programação, os valores de texto são chamados de strings de texto.
@@ -10,27 +11,29 @@
 // Se você colocar um número entre aspas, ele será tratado como uma sequência de texto.
 
 
-let n = 23 
+let n = 23 //inteiro
 
-let f = 'igor'
+let c = 'igor' //String
 
-let y = 6.854
+var y = 6.84 //float
 
-var r 
+var r = true //boolean
+
+var e //undefined
+
+var k = 'd' //Character
 
 console.log('variavel n do tipo: ',typeof n)
 
+console.log('variavel n do tipo: ',typeof e)
+
+console.log('variavel n do tipo: ',typeof k)
+
 console.log('variavel n do tipo: ',typeof r)
 
-console.log('variavel f do tipo: ',typeof f)
+console.log('variavel f do tipo: ',typeof c)
 
 console.log('variavel y do tipo: ',typeof y)
-
-// resultado do output foi de:.
-// variavel n do tipo:  number
-// variavel n do tipo:  undefined
-// variavel f do tipo:  string
-// variavel y do tipo:  number
 
 // Observação:.
 // Se você colocar um número entre aspas, o restante dos números será tratado como string e concatenado.
