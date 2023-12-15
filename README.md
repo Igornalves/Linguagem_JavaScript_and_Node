@@ -28,7 +28,7 @@ Aqui abixo estão os links de outros repositorios que tenho em meu GitHub que po
 - [Biblioteca-React](https://github.com/Igornalves/Biblioteca-React)
 - [Projeto_WallPaper-WL](https://github.com/Igornalves/Projeto_WallPaper-WL)
 - [Calculadora-Digital_Front-End ](https://github.com/Igornalves/Calculadora-Digital_Front-End)
-- [Projeto_Prova-Poo](https://github.com/Igornalves/Projeto_Prova-Poo)
+- [Projeto_Sistema_Hospitalar-Poo](https://github.com/Igornalves/Projeto_Sistema_Hospitalar-Poo)
 
 ---
 
