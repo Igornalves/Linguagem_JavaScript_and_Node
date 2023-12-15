@@ -2,9 +2,11 @@
 
 Um projeto feito por um **iniciante/intermediario** em programação com total intuito de aprender a tecnologia JavaScript e Node.js:
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
+
 <img align="center" alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
 </div>
 
 ## Um pouco sobre o repositório
